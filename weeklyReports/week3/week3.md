@@ -1,7 +1,7 @@
 ---
 Name: Isaac Oquendo
 Class: cis106
-Semester: Spring 2022
+Semester: Fall 2022
 ---
 
 # Week Report 3
@@ -113,8 +113,9 @@ Semester: Spring 2022
 
 ### Definition of the following terms: <br><br>
 
-**Package** - are archives that contain binaries of software, configuration files, and information about dependencies. (In Windows, there are commonly .**exe** files) <br>
+**Package** - are archives that contain binaries of software, configuration files, and information about dependencies. (In Windows, there are commonly .**_exe_** files)
+    <br>
 ![ubuntuUpdate](package-box.png) <br>
-**Library** - reusable code that can be used by more than one function or program. <br><br>
-**Repository** - a large collection of software available for download.
+    **Library** - reusable code that can be used by more than one function or program. <br><br>
+    **Repository** - a large collection of software available for download.
 
