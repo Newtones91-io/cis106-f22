@@ -119,3 +119,11 @@ Semester: Fall 2022
     **Library** - reusable code that can be used by more than one function or program. <br><br>
     **Repository** - a large collection of software available for download.
 
+* Command for updating ubuntu
+<br>
+`sudo apt update; sudo apt upgrade; sudo apt full-upgrade -y`
+<br>
+
+![ubuntu-update-command-pic](ubuntu-update-command.png)
+
+   
