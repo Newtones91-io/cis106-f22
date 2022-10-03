@@ -8,12 +8,12 @@ semester: Fall 2022
 
 ## Question 1
 
-![pic1.1](date-command.png)
-![pic1.2](q1.2.png)
+![pic1](date-command.png)
+
 
 ## Question 2
 
-![pic2.1](q2.1.png)
+![pic2](q2.png)
 
 ## Question 3
 
