@@ -1,7 +1,7 @@
 ---
 Name: Isaac Oquendo
 Class: cis106
-Semester: Spring 2022
+Semester: Fall 2022
 ---
 
 # Week Report 4
