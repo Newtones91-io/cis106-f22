@@ -27,18 +27,18 @@ Command arguments are the inputs/items on which the command acts on.
 
 
 
-## Practice 
+## Presentation Practices
 
-**Practice 1**
+#### Practice 1
 ![p1.1](p1.1.png)<br><br>
 
-**Practice 2**
+#### Practice 2
 ![p2.1](p2.1.png)<br><br>
   
-**Practice 3**
-![p3.1](p3.1.png)<br>
+#### Practice 3
+![p3.1](p3.1.png)
 ![p3.2](p3.2.png)<br><br>
   
-**Practice 4**
+#### Practice 4
 ![p4.1](p4.1.png)
   
