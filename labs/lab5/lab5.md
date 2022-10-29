@@ -1,7 +1,7 @@
 ---
 name: Isaac Oquendo
 class: cis106
-semester: Spring 2022
+semester: Fall 2022
 ---
 
 # Lab 5 - Managing Files and Directories
